@@ -73,19 +73,12 @@ h1 {
   box-shadow: 0 0 0.6rem 0.4rem rgba(0, 0, 0, 0.2);
 }
 
-/* h2 {
-  display: flex;
-  justify-content: center;
-  font-weight: 700;
-  font-size: 2rem;
-  color: black;
-} */
 
 .img-maquineta {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border: 0.3rem solid rgb(254, 219, 139); */
+ 
   border-radius: 7rem;
 }
 
